@@ -1,5 +1,5 @@
 # Python-Course
-This Python course was designed for beginners, who dont know, how to begin with programming. I received addiotional help from ChatGPT and I provide one code example per chapter.
+This Python course was designed for beginners, who dont know, how to begin with programming. I received addiotional help from ChatGPT and I provide one code example per chapter. Happy Coding!
 
 ## Overview
 <ol>
