@@ -140,10 +140,14 @@
 
 ## Further references
 [Example Variables and Data Types](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleOne.py)
+
 [Example Operators and Expressions](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleTwo.py)
+
 [Example Comments](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleThree.py)
+
 [Example In- and Output](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleFour.py)
-[Example Control Structures](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleFive.py)
+
+[Example Control Structures](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleFive.py)</br></br>
 
 [Previous Chapter](https://github.com/IllusiveCoder/Python-Course/blob/main/ChapterOne.md)|[Next Chapter](https://github.com/IllusiveCoder/Python-Course/blob/main/ChapterThree.md)|
 |---|---|

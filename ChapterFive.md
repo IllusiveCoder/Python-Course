@@ -42,7 +42,7 @@
 <p>Please note that the example provided is for illustrative purposes and may not represent a complete or functional program. It serves to showcase the concepts discussed in the comments.</p>
 
 ## Further references
-[Example Data and Exception Handling](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleNine.py)
+[Example Data and Exception Handling](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleNine.py)</br></br>
 
 [Previous Chapter](https://github.com/IllusiveCoder/Python-Course/blob/main/ChapterFour.md)|[Next Chapter](https://github.com/IllusiveCoder/Python-Course/blob/main/ChapterSix.md)|
 |---|---|

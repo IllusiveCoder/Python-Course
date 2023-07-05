@@ -45,7 +45,8 @@
 
 ## Further references
 [Example Data Structures 1](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleSeven.py)
-[Example Data Structures 2](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleEight.py)
+
+[Example Data Structures 2](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleEight.py)</br></br>
 
 [Previous Chapter](https://github.com/IllusiveCoder/Python-Course/blob/main/ChapterThree.md)|[Next Chapter](https://github.com/IllusiveCoder/Python-Course/blob/main/ChapterFive.md)|
 |---|---|

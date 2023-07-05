@@ -68,7 +68,7 @@
 <p>Please note that the example provided is for illustrative purposes and may not represent a complete or functional program. It serves to showcase the concepts discussed in the comments.</p>
 
 ## Further references
-[Example Data Structures](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleSix.py)
+[Example Data Structures](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleSix.py)</br></br>
 
 [Previous Chapter](https://github.com/IllusiveCoder/Python-Course/blob/main/ChapterTwo.md)|[Next Chapter](https://github.com/IllusiveCoder/Python-Course/blob/main/ChapterFour.md)|
 |---|---|

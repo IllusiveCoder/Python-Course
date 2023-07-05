@@ -43,7 +43,7 @@
 
 <p>&nbsp; &nbsp;- Encapsulation and abstraction provide data hiding and enable the creation of complex systems.</p>
 
-<p>These topics form the foundation of Python programming. Understanding them equips programmers with the necessary knowledge and skills to write efficient, structured, and maintainable code. Whether you're a beginner or an experienced developer, mastering these concepts is essential for becoming proficient in Python.</p>
+<p>These topics form the foundation of Python programming. Understanding them equips programmers with the necessary knowledge and skills to write efficient, structured, and maintainable code. Whether you're a beginner or an experienced developer, mastering these concepts is essential for becoming proficient in Python.</p></br></br>
 
 [Previous Chapter](https://github.com/IllusiveCoder/Python-Course/blob/main/ChapterSix.md)|[Go to Course Overview](https://github.com/IllusiveCoder/Python-Course)|
 |---|---|
