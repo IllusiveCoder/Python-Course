@@ -137,3 +137,13 @@
 <p>This example program demonstrates the use of control structures in Python. It includes an if statement to perform conditional execution, a for loop to iterate over a sequence, a while loop to repeat a block of code while a condition is true, and nested control structures for more complex logic. It also showcases the use of break and continue statements to control the flow of execution within loops.</p>
 
 <p>Please note that the example provided is for illustrative purposes and may not represent a complete or functional program. It serves to showcase the concepts discussed in the comments.</p>
+
+## Further references
+[Example Variables and Data Types](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleOne.py)
+[Example Operators and Expressions](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleTwo.py)
+[Example Comments](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleThree.py)
+[Example In- and Output](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleFour.py)
+[Example Control Structures](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleFive.py)
+
+[Previous Chapter](https://github.com/IllusiveCoder/Python-Course/blob/main/ChapterOne.md)|[Next Chapter](https://github.com/IllusiveCoder/Python-Course/blob/main/ChapterThree.md)|
+|---|---|

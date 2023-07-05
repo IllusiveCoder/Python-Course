@@ -74,3 +74,9 @@
 <p>This example demonstrates encapsulation, inheritance, and polymorphism in action. The <code>Animal</code> class encapsulates the <code>name</code> attribute and the <code>speak()</code> method, which are inherited by the derived classes. The derived classes override the <code>speak()</code> method with their own implementation, showcasing polymorphism.</p>
 
 <p>Please note that this is a simplified example for illustrative purposes. In real-world scenarios, classes and objects may have more attributes and methods, and the program's structure would typically be more complex.</p>
+
+## Further references
+[Example OOP](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleTen.py)
+
+[Previous Chapter](https://github.com/IllusiveCoder/Python-Course/blob/main/ChapterFive.md)|[Next Chapter](https://github.com/IllusiveCoder/Python-Course/blob/main/ChapterSeven.md)|
+|---|---|

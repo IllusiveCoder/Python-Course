@@ -66,3 +66,9 @@
 <p>This example program demonstrates the use of different data structures in Python. It showcases lists for ordered collections, tuples for immutable sequences, sets for unique elements, dictionaries for key-value pairs, arrays for homogeneous data, and linked lists for efficient memory allocation.</p>
 
 <p>Please note that the example provided is for illustrative purposes and may not represent a complete or functional program. It serves to showcase the concepts discussed in the comments.</p>
+
+## Further references
+[Example Data Structures](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleSix.py)
+
+[Previous Chapter](https://github.com/IllusiveCoder/Python-Course/blob/main/ChapterTwo.md)|[Next Chapter](https://github.com/IllusiveCoder/Python-Course/blob/main/ChapterFour.md)|
+|---|---|

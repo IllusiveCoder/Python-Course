@@ -40,3 +40,9 @@
 <p>In this example program, we showcase data handling and exception handling in Python. It includes file operations for reading from a file, data manipulation using built-in functions, and several examples of exception handling. The program demonstrates handling specific exceptions like FileNotFoundError and PermissionError, as well as built-in exceptions like ZeroDivisionError and ValueError. It also showcases the creation and handling of a custom exception.</p>
 
 <p>Please note that the example provided is for illustrative purposes and may not represent a complete or functional program. It serves to showcase the concepts discussed in the comments.</p>
+
+## Further references
+[Example Data and Exception Handling](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleNine.py)
+
+[Previous Chapter](https://github.com/IllusiveCoder/Python-Course/blob/main/ChapterFour.md)|[Next Chapter](https://github.com/IllusiveCoder/Python-Course/blob/main/ChapterSix.md)|
+|---|---|

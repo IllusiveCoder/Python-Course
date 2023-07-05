@@ -42,3 +42,10 @@
 <p>This example showcases how to define functions in a module and import and use those functions in a separate program. By utilizing functions and modules, code can be organized, modularized, and reused effectively, promoting code readability and maintainability.</p>
 
 <p>Please note that the example provided is for illustrative purposes and may not represent a complete or functional program. It serves to demonstrate the concepts discussed in the comments.</p>
+
+## Further references
+[Example Data Structures 1](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleSeven.py)
+[Example Data Structures 2](https://github.com/IllusiveCoder/Python-Course/blob/main/Files/ExampleEight.py)
+
+[Previous Chapter](https://github.com/IllusiveCoder/Python-Course/blob/main/ChapterThree.md)|[Next Chapter](https://github.com/IllusiveCoder/Python-Course/blob/main/ChapterFive.md)|
+|---|---|
